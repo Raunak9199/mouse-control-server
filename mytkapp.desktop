@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MyTkApp
+Comment=My Tkinter Python App
+Exec=/home/raunaksrivastava/Documents/my_projs/python/mouse-control-server/release/MyTkApp
+Icon=/home/raunaksrivastava/Documents/my_projs/python/mouse-control-server/mouse.jpg
+Terminal=false
+Type=Application
+Categories=Utility;
