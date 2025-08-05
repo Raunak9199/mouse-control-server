@@ -1,8 +1,8 @@
 #!/bin/bash
 
-APP_NAME="MyTkApp"
-MAIN_SCRIPT="main.py"
-ICON_FILE="icon.png"  # Optional: replace with your icon file or remove --icon line if not needed
+APP_NAME="MouseControlServer"
+MAIN_SCRIPT="new_mouse_server.py"
+ICON_FILE="mouse.jpg"
 
 # Install pyinstaller if not present
 pip show pyinstaller &>/dev/null || pip install pyinstaller
