@@ -10,7 +10,7 @@ Turn your phone into a wireless mouse for your computer!
 
 ### Option 1: Download Executable (Easiest)
 
-1. Go to [Releases](https://github.com/YOURUSERNAME/phone-mouse-controller/releases)
+1. Go to [Releases](https://github.com/Raunak9199/mouse-control-server/releases/tag/v1.0.0)
 2. Download the latest version for your OS
 3. Run the executable
 
